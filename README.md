@@ -28,4 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiju2001&" alt="saiju2001" /></p>
 
+[![An image of @saikat2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikat2001)](https://holopin.io/@saikat2001)
+
 
